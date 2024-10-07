@@ -1,0 +1,3 @@
+Django>=4.0,<5.0  # Or the latest stable version of Django you prefer
+djangorestframework  # For building REST APIs
+psycopg2-binary  # PostgreSQL database adapter for Python
